@@ -6,7 +6,7 @@ const Faq = () => {
             <div className='px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8'>
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg mt-8'>
-                    <h2 className='text-2xl font-bold text-amber-300'>Will you deploy my react html tailwind css website?</h2>
+                    <h2 className='text-2xl font-bold text-amber-300'>01. Will you deploy my react html tailwind css website?</h2>
                     <p ><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>The </span>The website's deployment is not part of the package. But if you want I will only deploy your react tailwind website on Netlify.</p>
                 </div>
 
