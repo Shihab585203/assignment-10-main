@@ -7,7 +7,7 @@ const Blog = () => {
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg mt-8'>
                     <h2 className='text-2xl font-bold text-amber-300'>01.what is cors?</h2>
-                    <p ><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>CORS </span>stands for Cross-Origin Resource Sharing . It allows us to relax the security applied to an API. This is done by bypassing the Access-Control-Allow-Origin headers, which specify which origins can access the API.</p>
+                    <p ><span className='text-xl font-bold text-amber-400'>Ans:</span>Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.</p>
                 </div>
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
@@ -18,11 +18,11 @@ const Blog = () => {
                 </div>
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
-                    <h2 className='text-2xl font-bold text-amber-300'>04.How does the private route work?</h2>
+                    <h2 className='text-2xl font-bold text-amber-300'>03.How does the private route work?</h2>
                     <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>The</span>The react private route component renders child components ( children ) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property.</p>
                 </div>
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
-                    <h2 className='text-2xl font-bold text-amber-300'>03. What is Node? How does Node work?</h2>
+                    <h2 className='text-2xl font-bold text-amber-300'>04. What is Node? How does Node work?</h2>
                     <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>In</span>
 
                         <span>
