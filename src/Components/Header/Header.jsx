@@ -34,7 +34,7 @@ const Header = () => {
             <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-white overlayer'>
                 <div className='flex'>
                     <div><img className='w-24' src="https://www.paidmembershipspro.com/wp-content/uploads/2022/01/LearnPress-add-on-icon-300x300.png" alt="" srcset="" /></div>
-                    <div><Link to='/home' className="btn btn-ghost normal-case text-xl mt-5 switeh"><h1 >E-Learning</h1></Link></div>
+                    <div><Link to='/home' className="btn btn-ghost normal-case text-xl mt-5 switeh"><h1 >LearnPress</h1></Link></div>
                 </div>
 
 
