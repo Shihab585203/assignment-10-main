@@ -6,7 +6,7 @@ const Blog = () => {
             <div className='px-4 py-5 mx-auto sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8'>
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg mt-8'>
-                    <h2 className='text-2xl font-bold text-amber-300'>01.what is cors?</h2>
+                    <h2 className='text-2xl font-bold text-amber-300'>01.What is cors?</h2>
                     <p ><span className='text-xl font-bold text-amber-400'>Ans:</span>Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.</p>
                 </div>
 
@@ -19,7 +19,7 @@ const Blog = () => {
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
                     <h2 className='text-2xl font-bold text-amber-300'>03.How does the private route work?</h2>
-                    <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>The</span>The react private route component renders child components ( children ) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property.</p>
+                    <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>The</span> react private route component renders child components ( children ) if the user is logged in. If not logged in the user is redirected to the /login page with the return url passed in the location state property.</p>
                 </div>
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
                     <h2 className='text-2xl font-bold text-amber-300'>04. What is Node? How does Node work?</h2>
