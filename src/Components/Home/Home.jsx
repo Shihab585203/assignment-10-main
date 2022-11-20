@@ -14,7 +14,7 @@ const Home = () => {
 
                             <h2 className='switeh max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none'>
                                 We have everything you need<br className='hidden md:block' /> to learn anything {' '}
-                                <span className='inline-block text-blue-400'>Best E-Learning  Platform</span>
+                                <span className='inline-block text-blue-600'>Best E-Learning  Platform</span>
                             </h2>
                             <p className='switeh text-base text-gray-700 md:text-lg'>
                                 Skiles are a uniquely portable magic. Skiles serve to show a man
@@ -24,7 +24,7 @@ const Home = () => {
                         <div className='flex flex-col items-center md:flex-row'>
                             <Link to="/courses"
                                 href='/books'
-                                className='inline-flex items-center justify-center w-full h-12 px-6 mb-3 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto md:mr-4 md:mb-0 bg-blue-400 hover:bg-blue-700 focus:shadow-outline focus:outline-none'
+                                className='inline-flex items-center justify-center w-full h-12 px-6 mb-3 font-medium tracking-wide text-white transition duration-200 rounded shadow-md md:w-auto md:mr-4 md:mb-0 bg-blue-500 hover:bg-blue-800 focus:shadow-outline focus:outline-none'
                             >
                                 <span className='mr-3'>View All Coures</span>
                                 <svg
