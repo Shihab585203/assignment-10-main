@@ -13,11 +13,11 @@ const Faq = () => {
 
 
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
-                    <h2 className='text-2xl font-bold text-amber-300'>02.Do you have any previous work in react html and tailwind css?</h2>
+                    <h2 className='text-2xl font-bold text-amber-300'>02. Do you have any previous work in react html and tailwind css?</h2>
                     <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>Yes</span>, I have done many projects in react html and tailwind css. Kindly contact me to see my previous projects.</p>
                 </div>
                 <div className='mb-10 bg-zinc-800 text-white p-8 rounded-lg '>
-                    <h2 className='text-2xl font-bold text-amber-300'>03.What are the requirements do you need for my react html tailwind css website?</h2>
+                    <h2 className='text-2xl font-bold text-amber-300'>03. What are the requirements do you need for my react html tailwind css website?</h2>
                     <p><span className='text-xl font-bold text-amber-400'>Ans:</span> <span className='text-xl font-semibold'>I</span>
 
                         <span>
